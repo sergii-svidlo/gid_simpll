@@ -1,3 +1,9 @@
+git commit
+git status
+git checkout 
+git diff
+
+
 У лукоморья дуб зяленый
 златуя цепь на дубе том
 И днем и ночью КОТ ученый
